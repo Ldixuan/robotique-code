@@ -1,0 +1,2 @@
+mr_control:mr_description:mr_path_recorder:mr_roomba:mr_simulation:mr_teleop:mr_vision
+-DCATKIN_DEVEL_PREFIX=/home/dixuan/Document/robotique/controle/robotics_courses/devel -DCMAKE_INSTALL_PREFIX=/home/dixuan/Document/robotique/controle/robotics_courses/install -G Unix Makefiles

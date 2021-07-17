@@ -1,0 +1,8 @@
+prefix=/home/dixuan/Document/robotique/project/devel
+
+Name: mr_control
+Description: Description of mr_control
+Version: 0.0.0
+Cflags: -I/home/dixuan/Document/robotique/project/devel/include -I/home/dixuan/Document/robotique/project/src/mr_control/include
+Libs: -L${prefix}/lib -lmr_control
+Requires: nav_msgs roscpp message_runtime tf2 tf2_ros std_msgs geometry_msgs roslib tf

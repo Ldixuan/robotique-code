@@ -1,0 +1,7 @@
+set(mr_vision_SETUP_PY_SETUP_MODULE "distutils.core")
+set(mr_vision_SETUP_PY_VERSION "0.0.0")
+set(mr_vision_SETUP_PY_SCRIPTS "")
+set(mr_vision_SETUP_PY_PACKAGES "mr_vision")
+set(mr_vision_SETUP_PY_PACKAGE_DIRS "src/mr_vision")
+set(mr_vision_SETUP_PY_MODULES "")
+set(mr_vision_SETUP_PY_MODULE_DIRS "")
